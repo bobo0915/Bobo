@@ -19,7 +19,7 @@ public class API01 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		/***
+		/***fffffffffffffffffffffffffffffffffff
 		 * 全国景点查询接口 （showAPI）
 		 * Date date=new Date();
 		SimpleDateFormat format=new SimpleDateFormat("yyyyMMddHHmmss");
