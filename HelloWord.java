@@ -49,7 +49,7 @@ public class API01 {
 		/*String httpUrl = "http://apis.baidu.com/txapi/mvtp/meinv"; 美女图片
 		String httpArg = "num=10";*/
 		String httpUrl = "http://apis.baidu.com/apistore/idservice/id";
-		String httpArg = "id=420683199009153410";
+		String httpArg = "id=420683199609163410";
 		String jsonResult = request(httpUrl, httpArg);
 		Map map =  new HashMap();
 	    Object ojb= JSONObject.parse(jsonResult);
